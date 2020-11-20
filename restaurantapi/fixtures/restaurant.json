@@ -1,0 +1,39 @@
+[
+    {
+      "model": "restaurantapi.restaurant",
+      "pk": 1,
+      "fields": {
+        "name": "Carraba's",
+        "address": "222 Front St"
+        
+      }
+    },
+    {
+      "model": "restaurantapi.restaurant",
+      "pk": 2,
+      "fields": {
+        "name": "Jasmine",
+        "address": "123 Sesame St"
+        
+      }
+    },
+    {
+      "model": "restaurantapi.restaurant",
+      "pk": 3,
+      "fields": {
+        "name": "Sushi Tomo",
+        "address": "3030 Main St"
+        
+      }
+    },
+    {
+      "model": "restaurantapi.restaurant",
+      "pk": 4,
+      "fields": {
+        "name": "Fannigan's Irish Pub",
+        "address": "45 Oak Ridge"
+       
+      }
+    }
+  ]
+  
