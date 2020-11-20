@@ -1,0 +1,39 @@
+[
+    {
+      "model": "restaurantapi.meal",
+      "pk": 1,
+      "fields": {
+        "name": "Chicken Bryan",
+        "restaurant_id": "2"
+        
+      }
+    },
+    {
+      "model": "restaurantapi.meal",
+      "pk": 2,
+      "fields": {
+        "name": "Pad Thai with Shrimp",
+        "restaurant_id": "1"
+        
+      }
+    },
+    {
+      "model": "restaurantapi.meal",
+      "pk": 3,
+      "fields": {
+        "name": "Volcano Roll",
+        "restaurant_id": "3"
+        
+      }
+    },
+    {
+      "model": "restaurantapi.meal",
+      "pk": 4,
+      "fields": {
+        "name": "Beef Stew",
+        "restaurant_id": "4"
+       
+      }
+    }
+  ]
+  

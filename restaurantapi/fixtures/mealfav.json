@@ -1,0 +1,38 @@
+[
+    {
+      "model": "restaurantapi.mealfav",
+      "pk": 1,
+      "fields": {
+        "meal_id": "1",
+        "user_id": "1"
+        
+      }
+    },
+    {
+      "model": "restaurantapi.mealfav",
+      "pk": 2,
+      "fields": {
+        "meal_id": "2",
+        "user_id": "1"
+        
+      }
+    },
+    {
+      "model": "restaurantapi.mealfav",
+      "pk": 3,
+      "fields": {
+        "meal_id": "3",
+        "user_id": "3"
+        
+      }
+    },
+    {
+      "model": "restaurantapi.mealfav",
+      "pk": 4,
+      "fields": {
+        "meal_id": "4",
+        "user_id": "2"
+       
+      }
+    }
+  ]

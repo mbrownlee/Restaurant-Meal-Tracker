@@ -1,0 +1,29 @@
+[
+    {
+      "model": "auth.user",
+      "pk": 1,
+      "fields": {
+        "password": "1234",
+        "username": "steve_eats", 
+        "email": "steve_eats@steveeats.com"
+      }
+    },
+    {
+        "model": "auth.user",
+        "pk": 2,
+        "fields": {
+          "password": "1234",
+          "username": "michelle_eats", 
+          "email": "michelle_eats@steveeats.com"
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 3,
+        "fields": {
+          "password": "1234",
+          "username": "papa_smurf", 
+          "email": "papa@smurf.com"
+        }
+      }
+  ]

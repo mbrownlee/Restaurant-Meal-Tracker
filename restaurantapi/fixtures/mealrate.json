@@ -1,0 +1,38 @@
+[
+    {
+      "model": "restaurantapi.mealrate",
+      "pk": 1,
+      "fields": {
+        "meal_id": "1",
+        "user_id": "1",
+        "rating": "4"
+      }
+    },
+    {
+      "model": "restaurantapi.mealrate",
+      "pk": 2,
+      "fields": {
+        "meal_id": "2",
+        "user_id": "1",
+        "rating": "4"
+      }
+    },
+    {
+      "model": "restaurantapi.mealrate",
+      "pk": 3,
+      "fields": {
+        "meal_id": "3",
+        "user_id": "3",
+        "rating": "4"
+      }
+    },
+    {
+      "model": "restaurantapi.mealrate",
+      "pk": 4,
+      "fields": {
+        "meal_id": "4",
+        "user_id": "2",
+        "rating": "3"
+      }
+    }
+  ]
